@@ -1,7 +1,7 @@
 # pknu-raspberrypi-2023
 라즈베리파이 학습하기!!!
 
-## 1일차
+## 1/2일차
 - 라즈베리파이 학습
     - 라즈베리파이 소개
     - 라즈베리파이 OS 설치 및 설정
@@ -13,4 +13,13 @@
         - Python 플러그인
     - 리눅스 기본
         - 리눅스 명령어
+
+## 3일차
+- 라즈베리파이 학습
+    - 통신 설정(AnyDesk 안됨), VNC Viewer
+    - 리눅스 일반
+        - 서비스 실행, 확인, 종료
+            - systemctl [start|stop|status] 서비스명
+        - MySQL DB
+    - Flask 기본
 
