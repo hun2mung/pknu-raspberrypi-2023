@@ -33,4 +33,12 @@
 ## 5일차
 - 라즈베리파이 학습
     - 네트워크 셋팅(VNC)
-    - RGB LED / Button 클릭
+    - RGB LED / Button
+    - 온습도 센서
+    - 서보모터
+
+## 6일차
+- 라즈베리파이 학습
+    - MQTT 통신
+        - MQTT Broker IP, port 설정, 계정설정(옵션)
+        - 
