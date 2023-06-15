@@ -52,3 +52,9 @@ WPF 모니터링, 컨트롤화면
 라즈베리파이 테스트 결과
 
 <img src="https://raw.githubusercontent.com/hun2mung/pknu-raspberrypi-2023/main/images/mqtt_monitoring.gif" width="700" height=600 />
+
+## 7일차
+- 라즈베리파이 학습
+    - 파이카메라 v1.3 ov5647
+    - OpenCV 4.7
+    - 카메라 연동 QrCode
